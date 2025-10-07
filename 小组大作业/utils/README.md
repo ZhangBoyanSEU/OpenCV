@@ -6,7 +6,7 @@ clip-图片反转
 
 effects-图片打码
 
-filter-滤波功能，如高斯滤波等
+filter-滤波功能，如均值滤波等
 
 repair-图像修复
 
