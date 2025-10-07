@@ -1,9 +1,15 @@
 # utils资源库
 
-Insert实现文字插入功能
-clip实现图片反转功能
-effects
-filter实现滤波功能，如高斯滤波等
+Insert-文字插入
+
+clip-图片反转
+
+effects-图片打码
+
+filter-滤波功能，如高斯滤波等
+
 repair
-segmentation
+
+segmentation-图像分割
+
 transfer
